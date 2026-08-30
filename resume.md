@@ -31,17 +31,18 @@ Developed fullstack applications for multiple clients using React, Vue, Angular,
 Managed a team of 13 developers for 16 months, balancing client work with career mentorship.
 <br /><br />
 
-**Fullstack developer | Vue & Python**
+**Fullstack Developer | Vue & Python**
 : Meemoo
 : **Oct 2025 - Present**
 
-- Overhauled the frontend by adding TypeScript, and adding **unit and integration tests** with Vitest & Testing Library
+- Migrated the frontend to use TypeScript, adding **unit and integration tests** with Vitest & Testing Library
 - Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the **AWS S3 buckets** are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
-- **Migrated PostgreSQL database to Wikibase**, which was used to manage the data via SPARQL queries and an API
+- **Migrated PostgreSQL database to Wikibase**, which was used to manage the data via SPARQL queries & an API
 - Integrated **Redis caching** to optimise frequently requested data
 - Utilised **AI assisted development** with GitHub CoPilot to speed up development
 - Improved accessibility to **comply with WCAG AA**
+- Migrating the existing **SAML authentication flow to OIDC** for support in multiple backend services
 
 *Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot*
 
@@ -60,7 +61,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 <br />
 <!-- As Practice Lead Development at the Bold team, I work alongside our full-stack web development consultants to enhance their professional growth. Together, we strive to deliver exceptional web applications that elevate our clients' customer experiences. Our core commitment lies in cultivating a culture of knowledge exchange, continuous learning, and positive workplace ambiance; thus maximizing the capabilities of our development team by fostering an environment where everyone's talents can flourish. -->
 
-**Lead frontend developer | React**
+**Lead Frontend Developer | React**
 : Securex
 : **Apr 2023 - Sep 2025**
 
@@ -69,6 +70,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 - Implemented new features in the **3 design systems** and extended the use of Storybook
 - Improved performance on complex forms with possible 1000+ dynamic input fields
 - Redesigned the **architecture of the state management** to improve the performance of all pages
+- Extended authentication flow to support FAS, **enabling Itsme login** for users.
 - Integrated SurveyJS with custom styling and integrated PDF viewer
 - Code reviewed and **coached frontend developers** to enforce best practices and improved test coverage
 - Set up new React applications and setup GitHub Actions
@@ -112,12 +114,12 @@ development or are already operational. The team's productivity has increased th
 introduced and the improvements to the NX monorepository configuration. Additionally, the code coverage has
 significantly improved, allowing us to better assess the impact of shared code changes. -->
 
-**Fullstack developer | React & NodeJS**
+**Fullstack Developer | React & NodeJS**
 : Politie Zone Antwerpen
 : **Jul 2022 - Apr 2023**
 
 - Implemented new features in the React frontend with its own **design system**
-- Developed new features for the Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
+- Developed new features for Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
 - **Improved test coverage** accross frontend, backend for frontend and backend
 
 *Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
@@ -132,7 +134,7 @@ Her roles and responsibilities include:
 <br />
 
 \newpage
-**Frontend developer | Vue**
+**Frontend Developer | Vue**
 : D'Ieteren
 : **Oct 2019 - Sep 2022**
 
@@ -145,7 +147,7 @@ Her roles and responsibilities include:
 
 <br />
 
-**Frontend developer | Angular**
+**Frontend Developer | Angular**
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
 
@@ -171,7 +173,7 @@ Her roles and responsibilities include:
 
 <br />
 
-**Frontend developer | Angular**
+**Frontend Developer | Angular**
 : MLOZ
 : **Jan 2019 - Feb 2019**
 
@@ -182,7 +184,7 @@ Her roles and responsibilities include:
 
 <br />
 
-**Frontend developer | Angular**
+**Frontend Developer | Angular**
 : Wolters Kluwer
 : **Aug 2018 - Nov 2018**
 
@@ -201,11 +203,11 @@ helped with their in-house npm packages. -->
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git*  
 <br />
 
-**Frontend developer | Angular**
+**Frontend Developer | Angular**
 : Liantis
 : **May 2018 - Jul 2018**
 
-- Integrated design system components into the new Angular website portal for their clients to existing applications
+- Integrated design system components into the new Angular website portal for their clients to existing apps
 
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
@@ -218,7 +220,7 @@ technical documentation -->
 
 <br />
 
-### Fullstack .NET developer
+### Fullstack .NET Developer
 
 *AG Insurance (IS .NET Expertise Center team)*
 : **Apr 2014 - Mar 2018**
@@ -251,7 +253,7 @@ technical documentation -->
 
 <br />
 
-### Android developer
+### Android Developer
 
 *Vrije Universiteit Brussel*
 : **Oct 2013 - Jan 2014**
@@ -285,15 +287,13 @@ Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 
 ## Skills
 
-**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS
+**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS, Pinia
 
 **Backend**: Node.js (Express.js), Python (FastAPI), PostgreSQL, SPARQL, SQL Server
 
-**DevOps**: Docker, Kubernetes, AWS S3, GitHub Actions
+**DevOps & Tools**: Docker, Kubernetes, AWS S3, GitHub Actions, Git, Webpack, Vite, Nx, Storybook
 
 **Testing**: Vitest, Jest, Cypress, Testing Library
-
-**Tools**: Git, Webpack, Vite, Nx, Storybook
 
 **Languages:** English (Fluent), Dutch (Native), French (Professional)
 
