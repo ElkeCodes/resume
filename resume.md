@@ -35,13 +35,13 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 : Meemoo
 : **Oct 2025 - Present**
 
-- Migrated the frontend to use TypeScript, adding **unit and integration tests** with Vitest & Testing Library
+- Migrating the frontend to use TypeScript, adding **unit and integration tests** with Vitest & Testing Library
 - Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the **AWS S3 buckets** are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
-- **Migrated PostgreSQL database to Wikibase**, which was used to manage the data via SPARQL queries & an API
-- Integrated **Redis caching** to optimise frequently requested data
-- Utilised **AI assisted development** with GitHub CoPilot to speed up development
-- Improved accessibility to **comply with WCAG AA**
+- **Migrating PostgreSQL database to Wikibase**, which was used to manage the data via SPARQL queries & an API
+- Integrating **Redis caching** to optimise frequently requested data
+- Utilising **AI assisted development** with GitHub CoPilot to speed up development
+- Improving accessibility to **comply with WCAG AA**
 - Migrating the existing **SAML authentication flow to OIDC** for support in multiple backend services
 
 *Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot*
@@ -120,7 +120,7 @@ significantly improved, allowing us to better assess the impact of shared code c
 
 - Implemented new features in the React frontend with its own **design system**
 - Developed new features for Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
-- **Improved test coverage** accross frontend, backend for frontend and backend
+- **Improved test coverage** across frontend, backend for frontend and backend
 
 *Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
 
