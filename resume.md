@@ -35,6 +35,8 @@ Returned to fulltime development after that.
 - Overhauled a big part of the frontend by adding TypeScript, unit and integration tests with Vitest & Testing Library.
 - Adding the visualisation of the speech recognition in audio & video and face recognition in images.
 
+<br />
+
 **Practice Lead Development**
 : Ordina, team Bold
 : **Sep 2023 - Dec 2024**
@@ -45,6 +47,7 @@ Returned to fulltime development after that.
 - Shaped the team's vision and strategic direction
 - Wrote bids and proposals for new projects
 
+<br />
 <!-- As Practice Lead Development at the Bold team, I work alongside our full-stack web development consultants to enhance their professional growth. Together, we strive to deliver exceptional web applications that elevate our clients' customer experiences. Our core commitment lies in cultivating a culture of knowledge exchange, continuous learning, and positive workplace ambiance; thus maximizing the capabilities of our development team by fostering an environment where everyone's talents can flourish. -->
 
 **Frontend React developer**
@@ -69,6 +72,8 @@ Returned to fulltime development after that.
   - Set up new React applications and setup GitHub Actions
   - NX and package upgrades
   - Bugfixing and improvements on 15+ other projects in the monorepo
+
+<br />
 
 <!-- Situation: Securex is currently in the process of migrating all of their Mendix applications to React and Java. This
 migration to React required additional technical support within the NX monorepo, where all React applications are
@@ -95,6 +100,10 @@ significantly improved, allowing us to better assess the impact of shared code c
 - Improved test coverage accross frontend, backend for frontend and backend
 - Collaborated with designers and discussed with stakeholders
 
+Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema
+
+<br />
+
 <!-- Worked on the Casefiles application as a full stack engineer to help with implementing new features to enhance the casefiles data and functionalities.
 She also actively participated in solving bugs, taking architectural decisions and maintaining a consistent and clean implementation by reviewing pull requests.
 Her roles and responsibilities include:
@@ -117,6 +126,10 @@ Her roles and responsibilities include:
 - Added Google Analytics tracking
 - Helped the integration of new data to tbe shown on the websites
 
+Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git
+
+<br />
+
 **Frontend Angular developer**
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
@@ -133,6 +146,10 @@ Her roles and responsibilities include:
   - Migrated to Angular PWA
   - Introduced mobile friendly styling
 
+Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git
+
+<br />
+
 **Frontend Angular developer**
 : MLOZ
 : **Jan 2019 - Feb 2019**
@@ -140,6 +157,10 @@ Her roles and responsibilities include:
 - Worked away the backlog
 - Kickstarted implementation of new features
 - Coached junior developers on the project
+
+Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git
+
+<br />
 
 **Frontend Angular developer**
 : Wolters Kluwer
@@ -159,6 +180,10 @@ practices and a clean separation of concerns. I also redid the styling of the ap
 to their style guide. During my last weeks, I updated their Angular version, extended the amounts of e2e tests and
 helped with their in-house npm packages. -->
 
+Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Syncfusion, Webpack, Git
+
+<br />
+
 **Frontend Angular developer**
 : Liantis
 : **May 2018 - Jul 2018**
@@ -173,6 +198,10 @@ into account. The client can only do actions that were predefined for him and ha
 portal. To achieve this we used Angular, NgRx and RxJs to connect to the microservices. To further support the
 rebranding, Ordina created a custom pattern library which contains the digital brand guidelines, components and
 technical documentation -->
+
+Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git
+
+<br />
 
 ### Fullstack .NET developer
 
@@ -200,15 +229,28 @@ Worked in the IS .NET Expertise Center team where we developed multiple .NET pro
   - Negotiations with stakeholders
   - Managed the developers on the project
 
+Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS
+
+<br />
+
 ### Android developer
 
 Vrije Universiteit Brussel
 : **Oct 2013 - Jan 2014**
 
+Worked on a project with Android devices (tablets and smartphones).
+General goal was creating good user interfaces with dynamic elements in a web application.
+
+Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN
+
+<br />
+
 ### Photographer
 
 Self employed in secondary occupation
 : **Feb 2017 - Oct 2023**
+
+Provided coverage for weddings, receptions, company events, parties and occasionally photoshoots
 
 ## Education
 
@@ -232,7 +274,7 @@ Vrije Universiteit Brussel
 
 **Programming Languages:** JavaScript, TypeScript, HTML, CSS, SQL
 
-**Tools and Frameworks:** Git, Angular, Vue, React, Nx, Express, Webpack, Vite, Astro, Cypress, Jest, Vitest, Tailwind, Tanstack Query, RxJS, NGRX, PostgreSQL
+**Tools and Frameworks:** Git, Angular, Vue, React, Nx, Express, Webpack, Vite, Astro, Cypress, Jest, Vitest, Tailwind, Tanstack Query, RxJS, NGRX, PostgreSQL, SPARQL, Vuex, Pinia
 
 **Languages:** English (full professional proficiency), Dutch (native proficiency), French (professional working proficiency)
 
