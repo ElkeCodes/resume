@@ -18,33 +18,32 @@ header:
 
 ### Fullstack consultant
 
-Ordina Belgium (a Sopra Steria company)
-: **Mar 2018 - Current**
+*Sopra Steria Belgium (formerly Ordina Belgium)*
+: **Mar 2018 - Present**
 <br /><br />
 
-Developed fullstack applications for multiple clients using Angular, Vue, React, NodeJS and Python.
-Managed 13 employees in their Ordina career for 16 months, while working for clients.
-Returned to fulltime development after that.
+Developed fullstack applications for multiple clients using Angular, Vue, React, Node.js, and Python.
+Managed a team of 13 developers for 16 months, balancing client work with career mentorship.
 <br /><br />
 
 **Fullstack Vue & Python developer**
 : Meemoo
-: **Oct 2025 - Current**
+: **Oct 2025 - Present**
 
-- Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the AWS S3 buckets are handled and reconfiguration in the Kubernetes pods
 - Overhauled a big part of the frontend by adding TypeScript, and adding unit and integration tests with Vitest & Testing Library
+- Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the AWS S3 buckets are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
 - Migrated part of the PostgreSQL database data to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
-- Integrated Redis caching to optimise frequently requested data
-- Utilised AI assisted development with GitHub CoPilot to speed up development
-- Improved accessibility to comply with WCAG AA
+- Integrated **Redis caching** to optimise frequently requested data
+- Utilised **AI assisted development** with GitHub CoPilot to speed up development
+- Improved accessibility to **comply with WCAG AA**
 
-Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot
+*Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot*
 
 <br />
 
 **Practice Lead Development**
-: Ordina, team Bold
+: Ordina Belgium, team Bold
 : **Sep 2023 - Dec 2024**
 
 - Mentored 13 fullstack & frontend developers in their career path
@@ -60,10 +59,9 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
 : Securex
 : **Apr 2023 - Sep 2025**
 
-- Migrated existing features of Mendix applications to React applications
+- Migrated existing features of Mendix applications to React applications and integrated new features
 - Improved mobile friendly versions of the applications
 - Integrated PDF viewer
-- Implemented new features in multiple React application
 - Improved performance on complex forms with possible 1000+ dynamic input fields
 - Redesigned the architecture of the state management
 - Integrated SurveyJS with custom styling
@@ -92,7 +90,7 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
   - NX and package upgrades
   - Bugfixing and improvements on 15+ other projects in the monorepo
 -->
-Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress
+*Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress*
 
 <br />
 
@@ -117,11 +115,11 @@ significantly improved, allowing us to better assess the impact of shared code c
 : **Jul 2022 - Apr 2023**
 
 - Implemented new features in the React frontend with its own design system
-- Integrated new features in the NodeJS backend and NodeJS backend for frontend, implemented with Express.js, RabbitMQ and PostgreSQL
+- Developed new features for the Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
 - Improved test coverage accross frontend, backend for frontend and backend
 - Collaborated with designers and discussed with stakeholders
 
-Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema
+*Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
 
 \newpage
 
@@ -147,7 +145,7 @@ Her roles and responsibilities include:
 - Added Google Analytics tracking
 - Helped the integration of new data to tbe shown on the websites
 
-Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git
+*Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git*
 
 <br />
 
@@ -167,7 +165,7 @@ Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git
   - Migrated to Angular PWA
   - Introduced mobile friendly styling
 
-Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git*
 
 <br />
 
@@ -179,7 +177,7 @@ Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git
 - Kickstarted implementation of new features
 - Coached junior developers on the project
 
-Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
 <br />
 
@@ -201,7 +199,7 @@ practices and a clean separation of concerns. I also redid the styling of the ap
 to their style guide. During my last weeks, I updated their Angular version, extended the amounts of e2e tests and
 helped with their in-house npm packages. -->
 
-Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Syncfusion, Webpack, Git
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Syncfusion, Webpack, Git*
 
 <br />
 
@@ -220,7 +218,7 @@ portal. To achieve this we used Angular, NgRx and RxJs to connect to the microse
 rebranding, Ordina created a custom pattern library which contains the digital brand guidelines, components and
 technical documentation -->
 
-Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
 <br />
 
@@ -231,6 +229,14 @@ AG Insurance
 <br /><br />
 
 Worked in the IS .NET Expertise Center team where we developed multiple .NET projects as Fullstack developers.
+- Extended features in multiple ASP.NET, ASP.NET MVC 5 web apps and batch programs that ran every night
+- Improved SQL Server queries to decrease the runtime of the batches
+- Managed my own budget and time with stakeholder negotiations and reporting to management
+- Technical analysis of the integration of COBOL mainframe data into our own SOAP services
+- Coached new developers on multiple projects
+- Greenfielded ASP.Net MVC5 web application with AngularJS frontend and SQL Server database
+
+*Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS*
 
 <!-- - **DB2P**
   - Extended the features in the ASP.NET web app
@@ -249,25 +255,17 @@ Worked in the IS .NET Expertise Center team where we developed multiple .NET pro
   - Designed the architecture
   - Negotiations with stakeholders
   - Managed the developers on the project -->
-- Extended the features in multiple ASP.NET & ASP.NET MVC 5 web applications
-- Extended the features of batch projects that ran every night
-- Improved SQL Server queries to decrease the runtime of the batches
-- Managed my own budget and time with stakeholder negotiations and reporting to management
-- Technical analysis of the integration of COBOL mainframe data into our own SOAP services
-- Coached new developers on multiple projects
-- Greenfielded ASP.Net MVC5 web application with AngularJS frontend and SQL Server database
-
-Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS
 
 <br />
+
+\newpage
 
 ### Android developer
 
 Vrije Universiteit Brussel
 : **Oct 2013 - Jan 2014**
 
-Worked on a project with Android devices (tablets and smartphones).
-General goal was creating good user interfaces with dynamic elements in a web application.
+Developed an Android application for tablets and smartphones, focusing on dynamic UI elements and seamless integration with web applications
 
 Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN
 
@@ -279,6 +277,8 @@ Self employed in secondary occupation
 : **Feb 2017 - Oct 2023**
 
 Provided coverage for weddings, receptions, company events, parties and occasionally photoshoots
+
+<br />
 
 ## Education
 
@@ -294,9 +294,13 @@ Vrije Universiteit Brussel
 Vrije Universiteit Brussel
 : Brussels, Belgium
 
+<br />
+
 ## Projects
 
 **elkecodes.dev:** Blog and portfolio implemented with Astro, https://github.com/ElkeCodes/elkecodesblog
+
+<br />
 
 ## Skills
 
@@ -304,7 +308,7 @@ Vrije Universiteit Brussel
 
 **Tools and Frameworks:** Git, Angular, Vue, React, Nx, Express, Webpack, Vite, Astro, Cypress, Jest, Vitest, Tailwind, Tanstack Query, RxJS, NGRX, PostgreSQL, SPARQL, Vuex, Pinia
 
-**Languages:** English (full professional proficiency), Dutch (native proficiency), French (professional working proficiency)
+**Languages:** English (Fluent), Dutch (Native), French (Professional)
 
 <!-- ## Volunteering
 
