@@ -11,6 +11,7 @@ header:
     link: https://github.com/ElkeCodes
   - text: <span class="iconify" data-icon="charm:person"></span> elkecodes.dev
     link: https://elkecodes.dev
+  - text: <span class="iconify" data-icon="akar-icons:location"></span> Lokeren
 ---
 
 ## Experience
