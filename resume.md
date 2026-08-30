@@ -73,6 +73,8 @@ Returned to fulltime development after that.
   - NX and package upgrades
   - Bugfixing and improvements on 15+ other projects in the monorepo
 
+Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress
+
 <br />
 
 <!-- Situation: Securex is currently in the process of migrating all of their Mendix applications to React and Java. This
