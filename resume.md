@@ -2,7 +2,7 @@
 name: Elke Heymans
 header:
   - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">Senior fullstack developer</span>
+      <span style="font-size: 1.4em; font-weight: bold;">Senior Fullstack Developer</span>
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+32) 495 42 78 19
     newLine: true
   - text: <span class="iconify" data-icon="tabler:mail"></span> el.heymans@gmail.com
@@ -14,6 +14,10 @@ header:
   - text: <span class="iconify" data-icon="akar-icons:location"></span> Lokeren, Belgium
 ---
 <br />
+
+Senior Fullstack Developer with 13 years of shipping high-performance, accessible web applications in a variety of technologies. Focused on aligning business needs with technical solutions, modernizing legacy architectures, leading engineering teams, and using AI tools to accelerate development while delivering high quality products.
+
+<br/>
 
 ## Experience
 
@@ -34,7 +38,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 - Overhauled the frontend by adding TypeScript, and adding **unit and integration tests** with Vitest & Testing Library
 - Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the **AWS S3 buckets** are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
-- **Migrated PostgreSQL database to Wikibase**, which was utilised to manage the data via SPARQL queries and an API
+- **Migrated PostgreSQL database to Wikibase**, which was used to manage the data via SPARQL queries and an API
 - Integrated **Redis caching** to optimise frequently requested data
 - Utilised **AI assisted development** with GitHub CoPilot to speed up development
 - Improved accessibility to **comply with WCAG AA**
@@ -127,28 +131,29 @@ Her roles and responsibilities include:
 - Participate in scrum ceremonies, such as backlog grooming, sprint planning, restrospectives,... -->
 <br />
 
+\newpage
 **Frontend developer | Vue**
 : D'Ieteren
 : **Oct 2019 - Sep 2022**
 
 - Coached other frontend developers
 - Did **massive code migrations** (Vue 2 to Vue 3, Vuex to Pinia, Webpack to Vite) and introduced unit tests
-- Implemented SEO improvements and added Google Analytics tracking
+- Implemented SEO improvements, added Google Analytics tracking, improved loading time of the websites
 - **Negotiated with the client** about features with collaboration of UX/UI designers
-- Improved the loading time of the website by using Lighthouse
 
 *Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git*
 
-\newpage
+<br />
+
 **Frontend developer | Angular**
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
 
 - Set up the greenfield project in Angular, working alongside designer and Java backender
-- Integrated Leaflet to draw a **map of the incoming shipping vessels** to the port of Antwerp
-- Achieved live view of all positions, direction, speed and information of shipping vessels
+- Integrated Leaflet to draw a **live map of the incoming shipping vessels** to the port of Antwerp
+<!--- Achieved live view of all positions, direction, speed and information of shipping vessels-->
 - Managed data with RxJS that was retrieved via **Server-Sent Events**
-- Finalised 2 Angular application, used by Port of Antwerp and all Rhein river ports in France, Germany and Switzerland
+- Finalised 2 Angular apps, used by Port of Antwerp and all Rhein river ports in France, Germany and Switzerland
 
 <!-- - **Vessel Trafic Image project (Mar 2019 - Jul 2019)**
   - Set up the greenfield project in Angular, working alongside designer and Java backender
@@ -193,15 +198,14 @@ practices and a clean separation of concerns. I also redid the styling of the ap
 to their style guide. During my last weeks, I updated their Angular version, extended the amounts of e2e tests and
 helped with their in-house npm packages. -->
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git*
-
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git*  
 <br />
 
 **Frontend developer | Angular**
 : Liantis
 : **May 2018 - Jul 2018**
 
-- Integrated design system into the new Angular website portal for their clients to existing applications
+- Integrated design system components into the new Angular website portal for their clients to existing applications
 
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
@@ -216,13 +220,13 @@ technical documentation -->
 
 ### Fullstack .NET developer
 
-AG Insurance (IS .NET Expertise Center team)
+*AG Insurance (IS .NET Expertise Center team)*
 : **Apr 2014 - Mar 2018**
 <br />
 - Extended features in **multiple ASP.NET, ASP.NET MVC 5 web apps and batch programs** that ran every night
-- Improved SQL Server queries to decrease the runtime of the batches
+<!-- - Improved SQL Server queries to decrease the runtime of the batches -->
 - Managed my own budget and time with **stakeholder negotiations** and reporting to management
-- Technical analysis of the integration of COBOL mainframe data into our own SOAP services
+<!-- - Technical analysis of the integration of COBOL mainframe data into our own SOAP services -->
 - **Coached new developers** on new ASP.Net MVC5 web application with AngularJS and SQL Server database
 
 *Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS*
@@ -249,23 +253,20 @@ AG Insurance (IS .NET Expertise Center team)
 
 ### Android developer
 
-Vrije Universiteit Brussel
+*Vrije Universiteit Brussel*
 : **Oct 2013 - Jan 2014**
 
 <!-- Developed an Android application for tablets and smartphones, focusing on dynamic UI elements and seamless integration with web applications
 
 Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
-
 <br />
 
 ### Photographer
 
-Self employed in secondary occupation
+*Self employed in secondary occupation, coverage of weddings, company events and parties*
 : **Feb 2017 - Oct 2023**
 
-Provided coverage for weddings, receptions, company events, parties and occasionally photoshoots
-
-<br />
+<!-- Provided coverage for weddings, receptions, company events, parties and occasionally photoshoots -->
 
 ## Education
 
@@ -277,17 +278,12 @@ Provided coverage for weddings, receptions, company events, parties and occasion
 : Vrije Universiteit Brussel
 : **Sep 2008 - Aug 2011**
 
-<br />
-
 ## Projects
 
 **elkecodes.dev:** Blog and portfolio implemented with Astro, https://github.com/ElkeCodes/elkecodesblog
 
-<br />
 
 ## Skills
-
-**Programming Languages:** JavaScript, TypeScript, HTML, CSS, SQL
 
 **Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS
 
