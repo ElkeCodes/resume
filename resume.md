@@ -34,6 +34,11 @@ Returned to fulltime development after that.
 - Developing new features in the GIVE metadata project by extending the existing Vue frontend and Python backend.
 - Overhauled a big part of the frontend by adding TypeScript, unit and integration tests with Vitest & Testing Library.
 - Adding the visualisation of the speech recognition in audio & video and face recognition in images.
+- Migrated part of the PostgreSQL database data to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
+- Integrated Redis caching to optimise frequently requested data
+- Utilised AI assisted development with GitHub CoPilot to speed up delivery 
+
+Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, Git, GitHub CoPilot
 
 <br />
 
