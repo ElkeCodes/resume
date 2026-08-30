@@ -22,7 +22,7 @@ Ordina Belgium (a Sopra Steria company)
 : **Mar 2018 - Current**
 <br /><br />
 
-Worked for multiple clients, covering Angular, Vue and React projects.
+Developed fullstack applications for multiple clients using Angular, Vue, React, NodeJS and Python.
 Managed 13 employees in their Ordina career for 16 months, while working for clients.
 Returned to fulltime development after that.
 <br /><br />
@@ -47,7 +47,7 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
 : Ordina, team Bold
 : **Sep 2023 - Dec 2024**
 
-- Helped 13 fullstack & frontend developers in their career path
+- Mentored 13 fullstack & frontend developers in their career path
 - Organised knowledge sharing sessions
 - Planned conference visits and learning opportunities
 - Shaped the team's vision and strategic direction
