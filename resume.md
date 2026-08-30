@@ -33,7 +33,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 - Overhauled a big part of the frontend by adding TypeScript, and adding unit and integration tests with Vitest & Testing Library
 - Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the AWS S3 buckets are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
-- Migrated part of the PostgreSQL database data to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
+- Migrated part of the PostgreSQL database to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
 - Integrated **Redis caching** to optimise frequently requested data
 - Utilised **AI assisted development** with GitHub CoPilot to speed up development
 - Improved accessibility to **comply with WCAG AA**
@@ -66,9 +66,8 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 - Redesigned the architecture of the state management
 - Integrated SurveyJS with custom styling
 - Negotiated about functionality and acted as primary contact point 
-- Code reviewed and coached other frontend developers
+- Code reviewed and coached other frontend developers to enforce best practices and improved test coverage
 - Implemented new features in the 3 design systems and extended the use of Storybook
-- Enforced best practices and improved test coverage
 - Set up new React applications and setup GitHub Actions
 - Bugfixing and improvements on 15+ other projects in the monorepo
 <!--- **MyDoc project (Apr 2023 - Sep 2025)**
@@ -121,8 +120,6 @@ significantly improved, allowing us to better assess the impact of shared code c
 
 *Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
 
-\newpage
-
 <!-- Worked on the Casefiles application as a full stack engineer to help with implementing new features to enhance the casefiles data and functionalities.
 She also actively participated in solving bugs, taking architectural decisions and maintaining a consistent and clean implementation by reviewing pull requests.
 Her roles and responsibilities include:
@@ -130,25 +127,21 @@ Her roles and responsibilities include:
 - Develop the back-end, using Express.js and RabbitMQ
 - Write decent tests to check a correct functioning of the delivered code
 - Participate in scrum ceremonies, such as backlog grooming, sprint planning, restrospectives,... -->
+<br />
 
 **Frontend Vue developer**
 : D'Ieteren
 : **Oct 2019 - Sep 2022**
 
 - Coached other frontend developers
-- Introduced unit tests
-- Did massive code migrations (Vue 2 to Vue 3, Vuex to Pinia, Webpack to Vite)
-- Negotiated with the client about features
-- Collaborated with UX/UI designers
+- Did massive code migrations (Vue 2 to Vue 3, Vuex to Pinia, Webpack to Vite) and introduced unit tests
+- Negotiated with the client about features with collaboration with UX/UI designers
 - Improved the loading time of the website by using Lighthouse
-- Implemented SEO improvements
-- Added Google Analytics tracking
-- Helped the integration of new data to tbe shown on the websites
+- Implemented SEO improvements and added Google Analytics tracking
 
 *Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git*
 
-<br />
-
+\newpage
 **Frontend Angular developer**
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
@@ -185,10 +178,8 @@ Her roles and responsibilities include:
 : Wolters Kluwer
 : **Aug 2018 - Nov 2018**
 
-- Code reviewed the existing Angular application
+- Code reviewed the existing Angular application, increased test coverage, and introduced e2e tests
 - Developed new pages and functionalities with the Syncfusion component library
-- Restyled the application to better fit the style guide
-- Increased test coverage and introduced e2e tests
 
 <!-- I was the main frontend developer and worked closed with one of their fullstack developers. The project was
 started a couple of months before I started. In the beginning I focused on evaluating all the existing Angular code,
@@ -233,8 +224,7 @@ Worked in the IS .NET Expertise Center team where we developed multiple .NET pro
 - Improved SQL Server queries to decrease the runtime of the batches
 - Managed my own budget and time with stakeholder negotiations and reporting to management
 - Technical analysis of the integration of COBOL mainframe data into our own SOAP services
-- Coached new developers on multiple projects
-- Greenfielded ASP.Net MVC5 web application with AngularJS frontend and SQL Server database
+- Coached new developers on new ASP.Net MVC5 web application with AngularJS and SQL Server database
 
 *Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS*
 
@@ -258,16 +248,14 @@ Worked in the IS .NET Expertise Center team where we developed multiple .NET pro
 
 <br />
 
-\newpage
-
 ### Android developer
 
 Vrije Universiteit Brussel
 : **Oct 2013 - Jan 2014**
 
-Developed an Android application for tablets and smartphones, focusing on dynamic UI elements and seamless integration with web applications
+<!-- Developed an Android application for tablets and smartphones, focusing on dynamic UI elements and seamless integration with web applications
 
-Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN
+Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 
 <br />
 
