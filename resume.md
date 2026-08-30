@@ -2,7 +2,7 @@
 name: Elke Heymans
 header:
   - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">Fullstack developer</span>
+      <span style="font-size: 1.2em; font-weight: bold;">Senior fullstack developer</span>
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+32) 495 42 78 19
     newLine: true
   - text: <span class="iconify" data-icon="tabler:mail"></span> el.heymans@gmail.com
@@ -11,7 +11,7 @@ header:
     link: https://github.com/ElkeCodes
   - text: <span class="iconify" data-icon="charm:person"></span> elkecodes.dev
     link: https://elkecodes.dev
-  - text: <span class="iconify" data-icon="akar-icons:location"></span> Lokeren
+  - text: <span class="iconify" data-icon="akar-icons:location"></span> Lokeren, Belgium
 ---
 
 ## Experience
@@ -31,14 +31,15 @@ Returned to fulltime development after that.
 : Meemoo
 : **Oct 2025 - Current**
 
-- Developing new features in the GIVE metadata project by extending the existing Vue frontend and Python backend.
-- Overhauled a big part of the frontend by adding TypeScript, unit and integration tests with Vitest & Testing Library.
-- Adding the visualisation of the speech recognition in audio & video and face recognition in images.
+- Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the AWS S3 buckets are handled and reconfiguration in the Kubernetes pods
+- Overhauled a big part of the frontend by adding TypeScript, and adding unit and integration tests with Vitest & Testing Library
+- Adding visualisation of speech recognition in audio & video and face recognition in images
 - Migrated part of the PostgreSQL database data to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
 - Integrated Redis caching to optimise frequently requested data
-- Utilised AI assisted development with GitHub CoPilot to speed up delivery 
+- Utilised AI assisted development with GitHub CoPilot to speed up development
+- Improved accessibility to comply with WCAG AA
 
-Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, Git, GitHub CoPilot
+Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot
 
 <br />
 
@@ -55,7 +56,7 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
 <br />
 <!-- As Practice Lead Development at the Bold team, I work alongside our full-stack web development consultants to enhance their professional growth. Together, we strive to deliver exceptional web applications that elevate our clients' customer experiences. Our core commitment lies in cultivating a culture of knowledge exchange, continuous learning, and positive workplace ambiance; thus maximizing the capabilities of our development team by fostering an environment where everyone's talents can flourish. -->
 
-**Frontend React developer**
+**Frontend React lead developer**
 : Securex
 : **Apr 2023 - Sep 2025**
 
