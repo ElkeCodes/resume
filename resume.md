@@ -146,7 +146,13 @@ Her roles and responsibilities include:
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
 
-- **Vessel Trafic Image project (Mar 2019 - Jul 2019)**
+- Set up the greenfield project in Angular, working alongside designer and Java backender
+- Integrated Leaflet to draw a map of the incoming shipping vessels to the port of Antwerp
+- Managed data with RxJS that was retrieved via Server-Sent Events
+- Achieved live view of all positions, direction, speed and information of shipping vessels
+- Finalised development of 2 other Angular application, used port of Antwerp and by all ports along the Rhein river in France, Germany and Switzerland
+
+<!-- - **Vessel Trafic Image project (Mar 2019 - Jul 2019)**
   - Set up the greenfield project in Angular, working alongside designer and Java backender
   - Integrated Leaflet to draw a map of the incoming shipping vessels to the port of Antwerp
   - Managed data with RxJS that was retrieved via Server-Sent Events
@@ -156,7 +162,7 @@ Her roles and responsibilities include:
 - **Apics Mobile project (Sep 2019 - Jan 2020)**
   - Continued development of Angular application, used by the port of Antwerp for Belgian vessel traffic
   - Migrated to Angular PWA
-  - Introduced mobile friendly styling
+  - Introduced mobile friendly styling -->
 
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git*
 
