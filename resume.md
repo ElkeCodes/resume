@@ -13,6 +13,7 @@ header:
     link: https://elkecodes.dev
   - text: <span class="iconify" data-icon="akar-icons:location"></span> Lokeren, Belgium
 ---
+<br />
 
 ## Experience
 
@@ -22,18 +23,18 @@ header:
 : **Mar 2018 - Present**
 <br /><br />
 
-Developed fullstack applications for multiple clients using Angular, Vue, React, Node.js, and Python.
+Developed fullstack applications for multiple clients using React, Vue, Angular, Node.js, and Python.
 Managed a team of 13 developers for 16 months, balancing client work with career mentorship.
 <br /><br />
 
-**Fullstack Vue & Python developer**
+**Fullstack developer | Vue & Python**
 : Meemoo
 : **Oct 2025 - Present**
 
-- Overhauled a big part of the frontend by adding TypeScript, and adding unit and integration tests with Vitest & Testing Library
-- Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the AWS S3 buckets are handled and reconfiguration in the Kubernetes pods
+- Overhauled the frontend by adding TypeScript, and adding **unit and integration tests** with Vitest & Testing Library
+- Developing new features in the GIVE metadata project by extending the existing **Vue frontend** and **Python backend** with changes in how the **AWS S3 buckets** are handled and reconfiguration in the Kubernetes pods
 - Adding visualisation of speech recognition in audio & video and face recognition in images
-- Migrated part of the PostgreSQL database to a Wikibase instance, which was utilised to manage the data via SPARQL queries and an API
+- **Migrated PostgreSQL database to Wikibase**, which was utilised to manage the data via SPARQL queries and an API
 - Integrated **Redis caching** to optimise frequently requested data
 - Utilised **AI assisted development** with GitHub CoPilot to speed up development
 - Improved accessibility to **comply with WCAG AA**
@@ -46,30 +47,28 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 : Ordina Belgium, team Bold
 : **Sep 2023 - Dec 2024**
 
-- Mentored 13 fullstack & frontend developers in their career path
-- Organised knowledge sharing sessions
+- **Mentored 13 fullstack & frontend developers** in their career path
+- Organised **knowledge sharing** sessions
 - Planned conference visits and learning opportunities
-- Shaped the team's vision and strategic direction
-- Wrote bids and proposals for new projects
+- Shaped the team's vision and **strategic direction**
+- Wrote **bids and proposals** for new projects
 
 <br />
 <!-- As Practice Lead Development at the Bold team, I work alongside our full-stack web development consultants to enhance their professional growth. Together, we strive to deliver exceptional web applications that elevate our clients' customer experiences. Our core commitment lies in cultivating a culture of knowledge exchange, continuous learning, and positive workplace ambiance; thus maximizing the capabilities of our development team by fostering an environment where everyone's talents can flourish. -->
 
-**Frontend React lead developer**
+**Lead frontend developer | React**
 : Securex
 : **Apr 2023 - Sep 2025**
 
+- Negotiated about functionality and acted as **primary contact point** between business and team
 - Migrated existing features of Mendix applications to React applications and integrated new features
-- Improved mobile friendly versions of the applications
-- Integrated PDF viewer
+- Implemented new features in the **3 design systems** and extended the use of Storybook
 - Improved performance on complex forms with possible 1000+ dynamic input fields
-- Redesigned the architecture of the state management
-- Integrated SurveyJS with custom styling
-- Negotiated about functionality and acted as primary contact point 
-- Code reviewed and coached other frontend developers to enforce best practices and improved test coverage
-- Implemented new features in the 3 design systems and extended the use of Storybook
+- Redesigned the **architecture of the state management** to improve the performance of all pages
+- Integrated SurveyJS with custom styling and integrated PDF viewer
+- Code reviewed and **coached frontend developers** to enforce best practices and improved test coverage
 - Set up new React applications and setup GitHub Actions
-- Bugfixing and improvements on 15+ other projects in the monorepo
+- Bugfixing and improvements on 15+ other projects in the **NX monorepository**
 <!--- **MyDoc project (Apr 2023 - Sep 2025)**
   - Migrated existing features of Mendix application to React application
   - Improved mobile friendly version
@@ -109,14 +108,13 @@ development or are already operational. The team's productivity has increased th
 introduced and the improvements to the NX monorepository configuration. Additionally, the code coverage has
 significantly improved, allowing us to better assess the impact of shared code changes. -->
 
-**Fullstack React & NodeJS developer**
+**Fullstack developer | React & NodeJS**
 : Politie Zone Antwerpen
 : **Jul 2022 - Apr 2023**
 
-- Implemented new features in the React frontend with its own design system
+- Implemented new features in the React frontend with its own **design system**
 - Developed new features for the Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
-- Improved test coverage accross frontend, backend for frontend and backend
-- Collaborated with designers and discussed with stakeholders
+- **Improved test coverage** accross frontend, backend for frontend and backend
 
 *Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
 
@@ -129,28 +127,28 @@ Her roles and responsibilities include:
 - Participate in scrum ceremonies, such as backlog grooming, sprint planning, restrospectives,... -->
 <br />
 
-**Frontend Vue developer**
+**Frontend developer | Vue**
 : D'Ieteren
 : **Oct 2019 - Sep 2022**
 
 - Coached other frontend developers
-- Did massive code migrations (Vue 2 to Vue 3, Vuex to Pinia, Webpack to Vite) and introduced unit tests
-- Negotiated with the client about features with collaboration with UX/UI designers
-- Improved the loading time of the website by using Lighthouse
+- Did **massive code migrations** (Vue 2 to Vue 3, Vuex to Pinia, Webpack to Vite) and introduced unit tests
 - Implemented SEO improvements and added Google Analytics tracking
+- **Negotiated with the client** about features with collaboration of UX/UI designers
+- Improved the loading time of the website by using Lighthouse
 
 *Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git*
 
 \newpage
-**Frontend Angular developer**
+**Frontend developer | Angular**
 : Port of Antwerp
 : **Mar 2019 - Jan 2020**
 
 - Set up the greenfield project in Angular, working alongside designer and Java backender
-- Integrated Leaflet to draw a map of the incoming shipping vessels to the port of Antwerp
-- Managed data with RxJS that was retrieved via Server-Sent Events
+- Integrated Leaflet to draw a **map of the incoming shipping vessels** to the port of Antwerp
 - Achieved live view of all positions, direction, speed and information of shipping vessels
-- Finalised development of 2 other Angular application, used port of Antwerp and by all ports along the Rhein river in France, Germany and Switzerland
+- Managed data with RxJS that was retrieved via **Server-Sent Events**
+- Finalised 2 Angular application, used by Port of Antwerp and all Rhein river ports in France, Germany and Switzerland
 
 <!-- - **Vessel Trafic Image project (Mar 2019 - Jul 2019)**
   - Set up the greenfield project in Angular, working alongside designer and Java backender
@@ -168,23 +166,22 @@ Her roles and responsibilities include:
 
 <br />
 
-**Frontend Angular developer**
+**Frontend developer | Angular**
 : MLOZ
 : **Jan 2019 - Feb 2019**
 
-- Worked away the backlog
-- Kickstarted implementation of new features
-- Coached junior developers on the project
+- Worked away the backlog and kickstarted implementation of new features
+- **Coached junior developers** on the project
 
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
 <br />
 
-**Frontend Angular developer**
+**Frontend developer | Angular**
 : Wolters Kluwer
 : **Aug 2018 - Nov 2018**
 
-- Code reviewed the existing Angular application, increased test coverage, and introduced e2e tests
+- Code reviewed the existing Angular application, **increased test coverage, and introduced e2e tests**
 - Developed new pages and functionalities with the Syncfusion component library
 
 <!-- I was the main frontend developer and worked closed with one of their fullstack developers. The project was
@@ -196,17 +193,17 @@ practices and a clean separation of concerns. I also redid the styling of the ap
 to their style guide. During my last weeks, I updated their Angular version, extended the amounts of e2e tests and
 helped with their in-house npm packages. -->
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Syncfusion, Webpack, Git*
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git*
 
 <br />
 
-**Frontend Angular developer**
+**Frontend developer | Angular**
 : Liantis
 : **May 2018 - Jul 2018**
 
-- Developed new design system in scope of rebranding ADMB, Zenito & Provikmo to Liantis
 - Integrated design system into the new Angular website portal for their clients to existing applications
-<!-- - TO COMPLETE -->
+
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
 
 <!-- ADMB / Zenito hired Ordina to help with their rebranding for the new merged company. With the
 rebranding they also wanted to foresee a new portal website which was made with the needs of the client taken
@@ -215,22 +212,18 @@ portal. To achieve this we used Angular, NgRx and RxJs to connect to the microse
 rebranding, Ordina created a custom pattern library which contains the digital brand guidelines, components and
 technical documentation -->
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
-
 <br />
 
 ### Fullstack .NET developer
 
-AG Insurance
+AG Insurance (IS .NET Expertise Center team)
 : **Apr 2014 - Mar 2018**
-<br /><br />
-
-Worked in the IS .NET Expertise Center team where we developed multiple .NET projects as Fullstack developers.
-- Extended features in multiple ASP.NET, ASP.NET MVC 5 web apps and batch programs that ran every night
+<br />
+- Extended features in **multiple ASP.NET, ASP.NET MVC 5 web apps and batch programs** that ran every night
 - Improved SQL Server queries to decrease the runtime of the batches
-- Managed my own budget and time with stakeholder negotiations and reporting to management
+- Managed my own budget and time with **stakeholder negotiations** and reporting to management
 - Technical analysis of the integration of COBOL mainframe data into our own SOAP services
-- Coached new developers on new ASP.Net MVC5 web application with AngularJS and SQL Server database
+- **Coached new developers** on new ASP.Net MVC5 web application with AngularJS and SQL Server database
 
 *Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS*
 
@@ -277,16 +270,12 @@ Provided coverage for weddings, receptions, company events, parties and occasion
 ## Education
 
 **Master of Science: Computer Science**
+: Vrije Universiteit Brussel
 : **Sep 2011 - Aug 2013**
 
-Vrije Universiteit Brussel
-: Brussels, Belgium
-
 **Bachelor of Science: Computer Science**
+: Vrije Universiteit Brussel
 : **Sep 2008 - Aug 2011**
-
-Vrije Universiteit Brussel
-: Brussels, Belgium
 
 <br />
 
@@ -300,7 +289,15 @@ Vrije Universiteit Brussel
 
 **Programming Languages:** JavaScript, TypeScript, HTML, CSS, SQL
 
-**Tools and Frameworks:** Git, Angular, Vue, React, Nx, Express, Webpack, Vite, Astro, Cypress, Jest, Vitest, Tailwind, Tanstack Query, RxJS, NGRX, PostgreSQL, SPARQL, Vuex, Pinia
+**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS
+
+**Backend**: Node.js (Express.js), Python (FastAPI), PostgreSQL, SPARQL, SQL Server
+
+**DevOps**: Docker, Kubernetes, AWS S3, GitHub Actions
+
+**Testing**: Vitest, Jest, Cypress, Testing Library
+
+**Tools**: Git, Webpack, Vite, Nx, Storybook
 
 **Languages:** English (Fluent), Dutch (Native), French (Professional)
 
