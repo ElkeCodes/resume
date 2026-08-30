@@ -60,7 +60,20 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
 : Securex
 : **Apr 2023 - Sep 2025**
 
-- **MyDoc project (Apr 2023 - Sep 2025)**
+- Migrated existing features of Mendix applications to React applications
+- Improved mobile friendly versions of the applications
+- Integrated PDF viewer
+- Implemented new features in multiple React application
+- Improved performance on complex forms with possible 1000+ dynamic input fields
+- Redesigned the architecture of the state management
+- Integrated SurveyJS with custom styling
+- Negotiated about functionality and acted as primary contact point 
+- Code reviewed and coached other frontend developers
+- Implemented new features in the 3 design systems and extended the use of Storybook
+- Enforced best practices and improved test coverage
+- Set up new React applications and setup GitHub Actions
+- Bugfixing and improvements on 15+ other projects in the monorepo
+<!--- **MyDoc project (Apr 2023 - Sep 2025)**
   - Migrated existing features of Mendix application to React application
   - Improved mobile friendly version
   - Integrated PDF viewer
@@ -78,7 +91,7 @@ Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, Pos
   - Set up new React applications and setup GitHub Actions
   - NX and package upgrades
   - Bugfixing and improvements on 15+ other projects in the monorepo
-
+-->
 Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress
 
 <br />
@@ -104,13 +117,13 @@ significantly improved, allowing us to better assess the impact of shared code c
 : **Jul 2022 - Apr 2023**
 
 - Implemented new features in the React frontend with its own design system
-- Implemented new features in the NodeJS backend and NodeJS backend for frontend, implemented with Express.js, RabbitMQ and PostgreSQL
+- Integrated new features in the NodeJS backend and NodeJS backend for frontend, implemented with Express.js, RabbitMQ and PostgreSQL
 - Improved test coverage accross frontend, backend for frontend and backend
 - Collaborated with designers and discussed with stakeholders
 
 Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema
 
-<br />
+\newpage
 
 <!-- Worked on the Casefiles application as a full stack engineer to help with implementing new features to enhance the casefiles data and functionalities.
 She also actively participated in solving bugs, taking architectural decisions and maintaining a consistent and clean implementation by reviewing pull requests.
@@ -144,7 +157,7 @@ Tech stack: Vue, TypeScript, Vuex, Pinia, Webpack, Vite, Vue Test Utils, Git
 
 - **Vessel Trafic Image project (Mar 2019 - Jul 2019)**
   - Set up the greenfield project in Angular, working alongside designer and Java backender
-  - Integrated Leaflet to draw map of incoming shipping vessels to port of Antwerp
+  - Integrated Leaflet to draw a map of the incoming shipping vessels to the port of Antwerp
   - Managed data with RxJS that was retrieved via Server-Sent Events
   - Achieved live view of all positions, direction, speed and information of shipping vessels
 - **RheinPorts project (Jun 2019 - Aug 2019)**
@@ -175,7 +188,7 @@ Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git
 : **Aug 2018 - Nov 2018**
 
 - Code reviewed the existing Angular application
-- Developed new pages with the Syncfusion component library
+- Developed new pages and functionalities with the Syncfusion component library
 - Restyled the application to better fit the style guide
 - Increased test coverage and introduced e2e tests
 
@@ -219,7 +232,7 @@ AG Insurance
 
 Worked in the IS .NET Expertise Center team where we developed multiple .NET projects as Fullstack developers.
 
-- **DB2P**
+<!-- - **DB2P**
   - Extended the features in the ASP.NET web app
   - Extended the features of batch projects that ran every night
   - Improved SQL Server queries to decrease the runtime of the batches
@@ -235,7 +248,14 @@ Worked in the IS .NET Expertise Center team where we developed multiple .NET pro
   - Greenfield ASP.Net MVC5 web application with AngularJS frontend and SQL Server database
   - Designed the architecture
   - Negotiations with stakeholders
-  - Managed the developers on the project
+  - Managed the developers on the project -->
+- Extended the features in multiple ASP.NET & ASP.NET MVC 5 web applications
+- Extended the features of batch projects that ran every night
+- Improved SQL Server queries to decrease the runtime of the batches
+- Managed my own budget and time with stakeholder negotiations and reporting to management
+- Technical analysis of the integration of COBOL mainframe data into our own SOAP services
+- Coached new developers on multiple projects
+- Greenfielded ASP.Net MVC5 web application with AngularJS frontend and SQL Server database
 
 Tech stack: C#, ASP.NET, ASP.NET MVC, SOAP, SQL Server, jQuery, TFS
 
