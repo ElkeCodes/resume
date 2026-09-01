@@ -1,3 +1,3 @@
 # Elke Heymans's resume
 
-Use [Ohmycv.app](https://ohmycv.app/) to render the PDF.
+Latest version can directly be opened: [Senior Fullstack Developer](elke-heymans-senior-fullstack-developer.pdf)
