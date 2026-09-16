@@ -15,7 +15,8 @@ header:
 ---
 <br />
 
-Senior Fullstack Developer with 13 years of shipping high-performance, accessible web applications in a variety of technologies. Focused on aligning business needs with technical solutions, modernizing legacy architectures, leading engineering teams, and using AI tools to accelerate development while delivering high quality products.
+Senior Fullstack Developer with 13 years of shipping high-performance, accessible web applications in a variety of
+technologies. Focused on aligning business needs with technical fullstack implementations, modernizing legacy architectures, leading engineering teams, and using AI tools to accelerate development while delivering high quality products.
 
 <br/>
 
@@ -44,7 +45,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
 - Improving accessibility to **comply with WCAG AA**
 - Migrating the existing **SAML authentication flow to OIDC** for support in multiple backend services
 
-*Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot*
+*Tech stack: Vue, Python, TypeScript, FastAPI, Vite, Vitest, Testing Library, PostgreSQL, SPARQL, Redis, Docker, Kubernetes, AWS S3, Git, GitHub CoPilot, Jenkins*
 
 <br />
 
@@ -94,7 +95,7 @@ Managed a team of 13 developers for 16 months, balancing client work with career
   - NX and package upgrades
   - Bugfixing and improvements on 15+ other projects in the monorepo
 -->
-*Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress*
+*Tech stack: React, TypeScript, Tailwind, NX, Storybook, SurveyJS, Cypress, GitHub Actions*
 
 <br />
 
@@ -122,7 +123,7 @@ significantly improved, allowing us to better assess the impact of shared code c
 - Developed new features for Node.js backend (Express.js, RabbitMQ, PostgreSQL) and backend-for-frontend
 - **Improved test coverage** across frontend, backend for frontend and backend
 
-*Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema*
+*Tech stack: ReactJS, NodeJS, Express.js, RabbitMQ, PostgreSQL, JSON, JSON Schema, Docker*
 
 <!-- Worked on the Casefiles application as a full stack engineer to help with implementing new features to enhance the casefiles data and functionalities.
 She also actively participated in solving bugs, taking architectural decisions and maintaining a consistent and clean implementation by reviewing pull requests.
@@ -169,7 +170,7 @@ Her roles and responsibilities include:
   - Migrated to Angular PWA
   - Introduced mobile friendly styling -->
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git*
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Leaflet, Jasmine, Webpack, Git, Jenkins*
 
 <br />
 
@@ -200,7 +201,7 @@ practices and a clean separation of concerns. I also redid the styling of the ap
 to their style guide. During my last weeks, I updated their Angular version, extended the amounts of e2e tests and
 helped with their in-house npm packages. -->
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git*  
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Cypress, Syncfusion, Webpack, Git, Jenkins*  
 <br />
 
 **Frontend Developer | Angular**
@@ -209,7 +210,7 @@ helped with their in-house npm packages. -->
 
 - Integrated design system components into the new Angular website portal for their clients to existing apps
 
-*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git*
+*Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git, Jenkins*
 
 <!-- ADMB / Zenito hired Ordina to help with their rebranding for the new merged company. With the
 rebranding they also wanted to foresee a new portal website which was made with the needs of the client taken
@@ -282,16 +283,16 @@ Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 
 ## Projects
 
-**elkecodes.dev:** Blog and portfolio implemented with Astro, https://github.com/ElkeCodes/elkecodesblog
+**elkecodes.dev:** Blog and portfolio implemented with Astro, deployed on Netlify https://github.com/ElkeCodes/elkecodesblog
 
 
 ## Skills
 
-**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS, Pinia
+**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS, NGRX, Pinia
 
-**Backend**: Node.js (Express.js), Python (FastAPI), PostgreSQL, SPARQL, SQL Server
+**Backend**: Node.js (Express.js), Python (FastAPI), PostgreSQL, SPARQL, SQL Server, RabbitMQ
 
-**DevOps & Tools**: Docker, Kubernetes, AWS S3, GitHub Actions, Git, Webpack, Vite, Nx, Storybook
+**DevOps & Tools**: Docker, Kubernetes, AWS S3, GitHub Actions, Jenkins, Git, Webpack, Vite, NX, Storybook
 
 **Testing**: Vitest, Jest, Cypress, Testing Library
 
