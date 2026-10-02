@@ -284,12 +284,12 @@ Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 ## Projects
 
 **elkecodes.dev**: Blog and portfolio implemented with Astro, deployed on Netlify https://github.com/ElkeCodes/elkecodesblog
-**Health Triage**: Portfolio project to showcase my skills in a fullstack Next.js app with AI integration, deployed on Vercel https://github.com/ElkeCodes/health-triage
+**Health Triage**:Fullstack Next.js app with AI integration, deployed on Vercel https://github.com/ElkeCodes/health-triage
 
 
 ## Skills
 
-**Frontend**: React, Vue, Angular, TypeScript, Tailwind, Tanstack Query, RxJS, NGRX, Pinia
+**Frontend**: React, Next.js, Vue, Angular, Astro, TypeScript, Tailwind, Tanstack Query, RxJS, NGRX, Pinia
 
 **Backend**: Node.js (Express.js), Python (FastAPI), PostgreSQL, SPARQL, SQL Server, RabbitMQ
 
@@ -312,3 +312,5 @@ Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 **Wetenschappelijke Kring**
   : Volunteer
   : **Oct 2009 - Oct 2013** -->
+
+<!-- Lato, 13px, #3C674A -->
