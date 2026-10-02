@@ -283,7 +283,8 @@ Tech stack: Java, Android, HTML5, CSS3, JavaScript (jQuery), XML, XSLT, SVN-->
 
 ## Projects
 
-**elkecodes.dev:** Blog and portfolio implemented with Astro, deployed on Netlify https://github.com/ElkeCodes/elkecodesblog
+**elkecodes.dev**: Blog and portfolio implemented with Astro, deployed on Netlify https://github.com/ElkeCodes/elkecodesblog
+**Health Triage**: Portfolio project to showcase my skills in a fullstack Next.js app with AI integration, deployed on Vercel https://github.com/ElkeCodes/health-triage
 
 
 ## Skills
