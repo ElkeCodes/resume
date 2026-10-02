@@ -212,12 +212,7 @@ helped with their in-house npm packages. -->
 
 *Tech stack: Angular, TypeScript, NGRX, RxJS, Jasmine, Bootstrap, Webpack, Git, Jenkins*
 
-<!-- ADMB / Zenito hired Ordina to help with their rebranding for the new merged company. With the
-rebranding they also wanted to foresee a new portal website which was made with the needs of the client taken
-into account. The client can only do actions that were predefined for him and has access to his applications via the
-portal. To achieve this we used Angular, NgRx and RxJs to connect to the microservices. To further support the
-rebranding, Ordina created a custom pattern library which contains the digital brand guidelines, components and
-technical documentation -->
+<!-- ADMB / Zenito / Provikmo hired Ordina to help with their rebranding for the new merged company called Liantis. With the rebranding they also wanted to foresee a new portal website which was made with the needs of the client taken into account. The client can only do actions that were predefined for him and has access to his applications via the portal. To achieve this we used Angular, NgRx and RxJs to connect to the microservices. To further support the rebranding, Ordina created a custom pattern library which contains the digital brand guidelines, components and technical documentation. -->
 
 <br />
 
@@ -251,6 +246,20 @@ technical documentation -->
   - Designed the architecture
   - Negotiations with stakeholders
   - Managed the developers on the project -->
+
+<!--I've worked on multiple projects at AG Insurance where I've had either the role of analyst, developer or both. 
+
+
+DB2P: my first project at AG Insurance. The focus was maintenance and new developments in this web application project. It was written in ASP.Net, was linked with a SQL Server database and had also multiple batch projects running in the background. 
+
+
+CostModel: this was an internal web application project also written in ASP.Net with a SQL Server database and multiple batch projects. First the focus was on maintenance. Over the course of the years, I've implemented multiple new features to enhance the possibilities in the application and improve the user experience. In the last year, I've helped to improve the performance massively by rethinking the architecture. I reported frequently with the client and my manager and provided my own input to enhance the user experience in the application.
+
+
+MyAG: an ASP.Net MVC 5 web application currently in development. On this project I do both analysis and development. The application is completely responsive and is linked with multiple web services as well as a mainframe backend. In the last couple of months, I've also guided other developers joining the project by explaining them the architecture, coaching them and helping with the release management of the project.
+
+
+HypoSimul: a ASP.Net MVC5 web application with an AngularJS frontend and a SQL Server database. In the first stages I did the analysis while also communicating directly with the clients. I've helped them to make decisions on requirements by guiding them with mockups and feedback from both a technical and a user experience background. In later stages I also helped with the developments while doing reports to the clients and managing the releases.-->
 
 <br />
 
